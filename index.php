@@ -23,6 +23,7 @@
 
     <!-- Theme CSS -->
     <link href="css/agency.css" rel="stylesheet">
+    <?php include("pages/analytics.php"); ?>
 </head>
 
 <body id="page-top" class="index">
