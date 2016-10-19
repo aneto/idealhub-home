@@ -59,7 +59,7 @@
                 interval: 10000
             })
             $('.fdi-Carousel .item').each(function () {
-                var boxCount = 4; // change this to how many box you want
+                var boxCount = 1; // change this to how many box you want
                 var next = $(this).next();
                 for(i = 1; i < boxCount; i++) {
                     if (!next.length) {
