@@ -23,6 +23,6 @@ $headers = "From: noreply@yourdomain.com\n"; // This is the email address the ge
 $headers .= "Reply-To: $email_address";   
 
 mail('iohangp@gmail.com',$email_subject,$email_body,$headers);
-mail('alexandreantoniu@gmail.com',$email_subject,$email_body,$headers);
+mail('idealhub2016@gmail.com',$email_subject,$email_body,$headers);
 return true;         
 ?>
