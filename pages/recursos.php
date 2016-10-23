@@ -25,7 +25,7 @@
                         <i class="glyphicon glyphicon-barcode fa-stack-1x fa-inverse"></i>
                     </span>
                     <h4 class="service-heading">Produtos</h4>
-                    <p class="text-muted">Cadastre, importe ou integre o seu mix produtos e tenha tudo em um só lugar sem precisar de outra ferramenta. </p>
+                    <p class="text-muted">Cadastre, importe ou integre o seu mix de produtos e tenha tudo em um só lugar sem precisar de outra ferramenta. </p>
                 </div>
                 <div class="col-md-4">
                     <span class="fa-stack fa-4x">
@@ -67,7 +67,7 @@
                         <i class="glyphicon glyphicon-phone fa-stack-1x fa-inverse"></i>
                     </span>
                     <h4 class="service-heading">Mobilidade</h4>
-                    <p class="text-muted">Acesse seu painel e tenha as informações a qualquer hora e lugar e a partir de qualquer dispositivo.</p>
+                    <p class="text-muted">Acesse seu painel e tenha as informações a qualquer hora e lugar, a partir de qualquer dispositivo.</p>
                 </div>
             </div>
         </div>
