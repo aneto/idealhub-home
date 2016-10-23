@@ -679,8 +679,23 @@ ul.social-buttons li a:active {
 
 .portfolio-modal .modal-content #subtitle {
   text-align: center;
+  color: white;
 }
-
+#walmart .modal-content {
+	background-color: #007cc2;
+	color: white;
+}
+#americanas .modal-content {
+	background-color: #d0011b;
+	color: white;
+}
+#mercado-livre .modal-content {
+	background-color: #fbe307;
+	color: #222767;
+}
+#mercado-livre .modal-content a{
+	color: white;
+}
 .portfolio-modal .modal-content p.item-intro {
   margin: 20px 0 30px;
   font-family: "Droid Serif", "Helvetica Neue", Helvetica, Arial, sans-serif;
@@ -710,7 +725,7 @@ ul.social-buttons li a:active {
   height: 75px;
   width: 1px;
   margin-left: 35px;
-  background-color: #222222;
+  background-color: white;
   transform: rotate(45deg);
   -ms-transform: rotate(45deg);
   /* IE 9 */
@@ -721,7 +736,7 @@ ul.social-buttons li a:active {
 .portfolio-modal .close-modal .lr .rl {
   height: 75px;
   width: 1px;
-  background-color: #222222;
+  background-color: white;
   transform: rotate(90deg);
   -ms-transform: rotate(90deg);
   /* IE 9 */
