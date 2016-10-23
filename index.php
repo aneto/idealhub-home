@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="pt">
+<html lang="pt-br">
 
 <head>
 
@@ -8,6 +8,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="Aumente suas vendas com os maiores marketplaces do mercado. A integração ideal para a sua plataforma e-commerce utiliza tecnologia de ponta para suportar grandes volumes de dados.">
     <meta name="author" content="iDeal HUB">
+    <meta name="robots" content="ALL" />
+    <meta name="keywords" content="marketplace,marketplace hub,marketplaces,market place,integração marketplaces,integrador marketplace,integrando com marketplaces,integrando com marketplace,integração e-commerce marketplace,integrar minha loja com marketplaces,integrar com o marketplace,integração de sistemas,integração de software,integração de Dados,integração,loja virtual,e-commerce,ecommerce,meus produtos no marketplace,enviar produtos para os marketplaces,sincronizar produtos marketplace,os produtos da minha loja no marketplace,hub,submarino,b2w,americanas,extra,mercadolivre,walmart,ponto frio,nova.com,cnova,mercado livre,magento,netshoes,dafiti"/>
 
     <title>iDeal HUB - Integrador Marketplace - B2W, Walmart, Extra, Mercado Livre</title>
 
@@ -67,7 +69,7 @@
             });
         });
 
-    </script>>
+    </script>
 
 </body>
 
