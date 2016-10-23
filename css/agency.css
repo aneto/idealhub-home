@@ -665,16 +665,22 @@ ul.social-buttons li a:active {
   box-shadow: none;
   border: none;
   min-height: 100%;
-  padding: 100px 0;
-  text-align: center;
+  #padding: 100px 0;
+  text-align: justify;
 }
 .portfolio-modal .modal-content h2 {
   margin-bottom: 15px;
   font-size: 3em;
+  text-align: center;
 }
 .portfolio-modal .modal-content p {
   margin-bottom: 30px;
 }
+
+.portfolio-modal .modal-content #subtitle {
+  text-align: center;
+}
+
 .portfolio-modal .modal-content p.item-intro {
   margin: 20px 0 30px;
   font-family: "Droid Serif", "Helvetica Neue", Helvetica, Arial, sans-serif;
