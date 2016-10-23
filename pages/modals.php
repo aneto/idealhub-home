@@ -80,3 +80,93 @@
         </div>
     </div>
 </div>
+
+<div class="portfolio-modal modal fade" id="extra" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="close-modal" data-dismiss="modal">
+                <div class="lr">
+                    <div class="rl">
+                    </div>
+                </div>
+            </div>
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-8 col-lg-offset-2">
+                        <div class="modal-body">
+                            <h2>Extra</h2>
+                            <p id="subtitle" class="item-intro text-muted">Aproveite e aumente sua lucratividade!</p>
+                            <img class="img-responsive img-centered" src="img/portfolio/extra-modal.jpg" alt="">
+                            <p>
+                            Através do Marketplace do <a href="http://www.extra.com.br/marketplace/venda-no-extra.aspx">Extra</a> é possível aumentar de forma imediata suas vendas! Basta conectar sua loja e expor seus produtos para milhões de clientes!
+                            A divulgação e venda do seu produto são realizadas dentro do site Extra.com.br. 
+                            O cliente realiza a compra e após o recebimento do produto, você recebe seu dinheiro à vista em até 10 dias. Conte com uma equipe dedicada que te ajudará a vender cada dia mais!
+                            </p>
+
+                            <p><a target="_blank" href="http://www.extra.com.br/marketplace/venda-no-extra.aspx">Confira aqui</a> a página oficial do Extra!</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="portfolio-modal modal fade" id="submarino" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="close-modal" data-dismiss="modal">
+                <div class="lr">
+                    <div class="rl">
+                    </div>
+                </div>
+            </div>
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-8 col-lg-offset-2">
+                        <div class="modal-body">
+                            <h2>Submarino</h2>
+                            <p id="subtitle" class="item-intro text-muted">Mais de 1.200.000 acessos por dia!</p>
+                            <img class="img-responsive img-centered" src="img/portfolio/submarino-modal.jpg" alt="">
+                            <p>
+                            O <a href="http://www.submarino.com.br/marketplace">Submarino Marketplace</a> chegou para agregar experiência e volume de vendas ao seu negócio. Além da alta qualidade da plataforma tecnológica, assinada pela expertise da maior empresa de e-commerce da América Latina, nosso parceiro ainda conta com mais de 1 milhão de acessos diários do Submarino.
+                            </p>
+
+                            <p><a target="_blank" href="http://www.submarino.com.br/marketplace">Clique aqui</a> e acesse a página oficial do Submarino!</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="portfolio-modal modal fade" id="ponto-frio" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="close-modal" data-dismiss="modal">
+                <div class="lr">
+                    <div class="rl">
+                    </div>
+                </div>
+            </div>
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-8 col-lg-offset-2">
+                        <div class="modal-body">
+                            <h2>Submarino</h2>
+                            <p id="subtitle" class="item-intro text-muted">Mais de 19 milhões de visitantes mensais!</p>
+                            <img class="img-responsive img-centered" src="img/portfolio/ponto-frio-modal.jpg" alt="">
+                            <p>
+                            No Marketplace do <a href="http://www.pontofrio.com.br/marketplace/venda-no-pontofrio.aspx">Ponto Frio</a>, você conecta sua loja e expõe seus produtos para milhões de clientes que visitam o site todos os dias a procura das melhores ofertas e produtos.
+                            O seu produto é ofertado no Pontofrio.com de acordo com sua política de preço e frete. A divulgação e venda é 100% de responsabilidade do Pontofrio.com. Você fica responsável apenas pela entrega do produto.
+                            </p>
+
+                            <p><a target="_blank" href="http://www.pontofrio.com.br/marketplace/venda-no-pontofrio.aspx">Clique aqui</a> e acesse a página oficial do Ponto Frio!</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

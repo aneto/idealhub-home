@@ -22,7 +22,7 @@
                         <a class="page-scroll" href="#portfolio">Marketplaces</a>
                     </li>
                     <li>
-                        <a class="page-scroll" href="#about">Sobre</a>
+                        <a class="page-scroll" href="#about">Como Funciona</a>
                     </li>
                     <li>
                         <a class="page-scroll" href="#contact" onClick="_gaq.push(['_trackEvent', 'Fale Conosco', 'Click', 'Fale Conosco Menu']);">Fale Conosco</a>

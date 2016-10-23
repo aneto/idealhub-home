@@ -2,8 +2,8 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 text-center">
-                    <h2 class="section-heading">About</h2>
-                    <h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3>
+                    <h2 class="section-heading">Como funciona</h2>
+                    <h3 class="section-subheading text-muted">Você sabe como funciona o modelo dos marketplaces?</h3>
                 </div>
             </div>
             <div class="row">
@@ -11,65 +11,84 @@
                     <ul class="timeline">
                         <li>
                             <div class="timeline-image">
-                                <img class="img-circle img-responsive" src="img/about/1.jpg" alt="">
+                                <h3>
+                                    <span class="fa-stack fa-3x">
+                                        <i class="glyphicon glyphicon-home"></i>
+                                    </span>
+                                </h3>
                             </div>
                             <div class="timeline-panel">
                                 <div class="timeline-heading">
-                                    <h4>2009-2011</h4>
-                                    <h4 class="subheading">Our Humble Beginnings</h4>
+                                    <h4>1º</h4>
+                                    <h4 class="subheading">Sua Loja</h4>
                                 </div>
                                 <div class="timeline-body">
-                                    <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!</p>
+                                    <p class="text-muted">A sua loja irá se comunicar com o iDeal HUB enviando os produtos que deseja anunciar! O envio 
+                                    poderá ser realizado através da comunicação direta pela API ou através do painel administrativo.</p>
                                 </div>
                             </div>
                         </li>
                         <li class="timeline-inverted">
                             <div class="timeline-image">
-                                <img class="img-circle img-responsive" src="img/about/2.jpg" alt="">
+                                <h3>
+                                    <span class="fa-stack fa-3x">
+                                        <i class="glyphicon glyphicon-cog"></i>
+                                        <?php/*<img class="img-circle img-responsive" src="img/about/3.jpg" alt="">*/?>
+                                    </span>
+                                </h3>
                             </div>
                             <div class="timeline-panel">
                                 <div class="timeline-heading">
-                                    <h4>March 2011</h4>
-                                    <h4 class="subheading">An Agency is Born</h4>
+                                    <h4>2º</h4>
+                                    <h4 class="subheading">iDeal HUB</h4>
                                 </div>
                                 <div class="timeline-body">
-                                    <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!</p>
+                                    <p class="text-muted">O iDeal HUB ficará encarregado de realizar toda a comunicação com os marketplaces previamente selecionados
+                                    por você! Iremos administrar todas as informações dos produtos, gereciamento dos pedidos e iremos gerar relatórios atualizados.</p>
                                 </div>
                             </div>
                         </li>
                         <li>
                             <div class="timeline-image">
-                                <img class="img-circle img-responsive" src="img/about/3.jpg" alt="">
+                                <h3>
+                                    <span class="fa-stack fa-3x">
+                                        <i class="glyphicon glyphicon-group"></i>
+                                    </span>
+                                </h3>
                             </div>
                             <div class="timeline-panel">
                                 <div class="timeline-heading">
-                                    <h4>December 2012</h4>
-                                    <h4 class="subheading">Transition to Full Service</h4>
+                                    <h4>3º</h4>
+                                    <h4 class="subheading">Marketplaces</h4>
                                 </div>
                                 <div class="timeline-body">
-                                    <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!</p>
+                                    <p class="text-muted">Após definir quais marketplaces desejará vender iremos enviar os produtos para os respectivos canais de vendas! Você irá concentrar o trabalho gerencial em uma única ferramenta, aumentando a agilidade, diminuido os erros e gerando relatórios especificos por marketplaces.</p>
                                 </div>
                             </div>
                         </li>
                         <li class="timeline-inverted">
                             <div class="timeline-image">
-                                <img class="img-circle img-responsive" src="img/about/4.jpg" alt="">
+                                <h3>
+                                    <span class="fa-stack fa-3x">
+                                        <i class="glyphicon glyphicon-usd fa-stack-1x fa-inverse"></i>
+                                    </span>
+                                </h3>
                             </div>
                             <div class="timeline-panel">
                                 <div class="timeline-heading">
-                                    <h4>July 2014</h4>
-                                    <h4 class="subheading">Phase Two Expansion</h4>
+                                    <h4>4º</h4>
+                                    <h4 class="subheading">Money</h4>
                                 </div>
                                 <div class="timeline-body">
-                                    <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!</p>
+                                    <p class="text-muted">Aumente seu faturamento descomplicando a gestão de múltiplos marketplaces! Seu trabalho operacional reduzido será convertido em dinheiro e um melhor controle!</p>
                                 </div>
                             </div>
                         </li>
                         <li class="timeline-inverted">
                             <div class="timeline-image">
-                                <h4>Be Part
-                                    <br>Of Our
-                                    <br>Story!</h4>
+                                <h4>Entre para
+                                    <br>o nosso
+                                    <br>time!</h4>
                             </div>
                         </li>
                     </ul>

@@ -696,6 +696,27 @@ ul.social-buttons li a:active {
 #mercado-livre .modal-content a{
 	color: white;
 }
+#extra .modal-content {
+	background-color: #d33438;
+	color: white;
+}
+#extra .modal-content a{
+	color: #2e75b7;
+}
+#submarino .modal-content {
+	background-color: #0189ff;
+	color: white;
+}
+#submarino .modal-content a{
+	color: #fcda00;
+}
+#ponto-frio .modal-content {
+	background-color: #d81b22;
+	color: white;
+}
+#ponto-frio .modal-content a{
+	color: #0a0a14;
+}
 .portfolio-modal .modal-content p.item-intro {
   margin: 20px 0 30px;
   font-family: "Droid Serif", "Helvetica Neue", Helvetica, Arial, sans-serif;
