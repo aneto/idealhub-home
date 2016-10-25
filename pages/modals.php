@@ -39,7 +39,7 @@
                 <div class="row">
                     <div class="col-lg-8 col-lg-offset-2">
                         <div class="modal-body">
-                            <h2>Americanas.com</h2>
+                            <h2>Americanas</h2>
                             <p id="subtitle" class="item-intro text-muted">Faça parte da maior!</p>
                             <img class="img-responsive img-centered" src="img/portfolio/americanas-modal.jpg" alt="">
                             <p>Com o Marketplace da <a href="http://www.americanas.com.br/marketplace">Americanas.com</a>, você expõe seus produtos na maior loja online da América Latina e atinge um número muito maior de clientes qualificados, além de contar com a tecnologia, a segurança e o atendimento muito bem prezados por esse parceiro.</p>

@@ -32,8 +32,7 @@
                             <div class="timeline-image">
                                 <h3>
                                     <span class="fa-stack fa-3x">
-                                        <i class="glyphicon glyphicon-cog"></i>
-                                        <?php/*<img class="img-circle img-responsive" src="img/about/3.jpg" alt="">*/?>
+                                        <i class="glyphicon glyphicon-cog fa-stack-1x fa-inverse"></i>
                                     </span>
                                 </h3>
                             </div>

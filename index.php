@@ -18,7 +18,7 @@
     <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
 
     <!-- Custom Fonts -->
-    <link href="vendor/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+    <link href="vendor/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css" async>
     <link href="css/fonts.css" rel="stylesheet" type="text/css">
     <link href="css/agency.css" rel="stylesheet">
 
