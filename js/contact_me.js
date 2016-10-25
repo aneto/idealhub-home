@@ -16,6 +16,10 @@ $(function() {
             var message = $("textarea#message").val();
             var firstName = name; // For Success/Failure Message
             // Check for white space in name for Success/Fail message
+
+            $("#bntEnviar").hide();
+            $("#btnEnviando").show();
+
             if (firstName.indexOf(' ') >= 0) {
                 firstName = name.split(' ').slice(0, -1).join(' ');
             }
@@ -41,6 +45,8 @@ $(function() {
 
                     //clear all fields
                     $('#contactForm').trigger("reset");
+                    $("#bntEnviar").show();
+                    $("#btnEnviando").hide();
                 },
                 error: function() {
                     // Fail message
@@ -51,6 +57,8 @@ $(function() {
                     $('#success > .alert-danger').append('</div>');
                     //clear all fields
                     $('#contactForm').trigger("reset");
+                    $("#bntEnviar").show();
+                    $("#btnEnviando").hide();
                 },
             });
         },

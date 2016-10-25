@@ -33,7 +33,9 @@
                             <div class="clearfix"></div>
                             <div class="col-lg-12 text-center">
                                 <div id="success"></div>
-                                <button type="submit" class="btn btn-xl">Enviar Mensagem</button>
+                                <button id="bntEnviar" type="submit" class="btn btn-xl ">Enviar Mensagem</button>
+
+                                <button id="btnEnviando" style="display:none;" type="submit" class="btn btn-xl "> <span class="glyphicon glyphicon-refresh glyphicon-refresh-animate"></span> Enviando...</button>
                             </div>
                         </div>
                     </form>

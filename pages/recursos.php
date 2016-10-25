@@ -56,7 +56,7 @@
                 <div class="col-md-4">
                     <span class="fa-stack fa-4x">
                         <i class="fa fa-circle fa-stack-2x text-primary"></i>
-                        <i class="glyphicon glyphicon-send fa-stack-1x fa-inverse"></i>
+                        <i class="fa fa-truck fa-stack-1x fa-inverse"></i>
                     </span>
                     <h4 class="service-heading">Frete</h4>
                     <p class="text-muted">Gerencie suas regras de frete de maneira simples. Com módulo de integração direta com os correios.</p>

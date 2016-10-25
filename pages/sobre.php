@@ -70,7 +70,7 @@
                             <div class="timeline-image">
                                 <h3>
                                     <span class="fa-stack fa-3x">
-                                        <i class="glyphicon glyphicon-usd fa-stack-1x fa-inverse"></i>
+                                        <i class="glyphicon glyphicon-usd "></i>
                                     </span>
                                 </h3>
                             </div>

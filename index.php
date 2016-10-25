@@ -1,3 +1,4 @@
+<?php ini_set('display_errors','off')?>
 <!DOCTYPE html>
 <html lang="pt-br">
 
@@ -52,22 +53,32 @@
     <script src="js/agency.min.js"></script>
 
     <script type="text/javascript">
-        $(document).ready(function () {
-            $('#myCarousel').carousel({
-                interval: 10000
-            })
-            $('.fdi-Carousel .item').each(function () {
-                var boxCount = 1; // change this to how many box you want
-                var next = $(this).next();
-                for(i = 1; i < boxCount; i++) {
-                    if (!next.length) {
-                        next = $(this).siblings(':first');
+
+        
+
+            $(document).ready(function () {
+
+                    if(screen.width < 700){
+                       $('#myCarousel').hide(); 
                     }
-                    next.children(':first-child').clone().appendTo($(this));
-                    next = next.next();
-                }
+                
+                    $('#myCarousel').carousel({
+                        interval: 10000
+                    })
+                    $('.fdi-Carousel .item').each(function () {
+                        var boxCount = 1; // change this to how many box you want
+                        var next = $(this).next();
+                        for(i = 1; i < boxCount; i++) {
+                            if (!next.length) {
+                                next = $(this).siblings(':first');
+                            }
+                            next.children(':first-child').clone().appendTo($(this));
+                            next = next.next();
+                        }
+                    });
+
             });
-        });
+       
 
     </script>
 
