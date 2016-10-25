@@ -6,7 +6,7 @@
                 <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
                     <span class="sr-only">Toggle navigation</span> Menu <i class="fa fa-bars"></i>
                 </button>
-                <a class="navbar-brand page-scroll" style=" padding-top: 0px;" href="#page-top"><img src="img/site/idealhub.png" style="width: 172px;"/></a>
+                <a class="navbar-brand page-scroll" style=" padding-top: 0px;" href="#page-top"><h1><img src="img/site/idealhub.png" style="width: 172px;" alt="iDeal HUB" title="iDeal HUB" /></h1></a>
             </div>
 
             <!-- Collect the nav links, forms, and other content for toggling -->
