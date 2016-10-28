@@ -154,7 +154,7 @@
                 <div class="row">
                     <div class="col-lg-8 col-lg-offset-2">
                         <div class="modal-body">
-                            <h2>Submarino</h2>
+                            <h2>Ponto Frio</h2>
                             <p id="subtitle" class="item-intro text-muted">Mais de 19 milhões de visitantes mensais!</p>
                             <img class="img-responsive img-centered" src="img/portfolio/ponto-frio-modal.jpg" alt="marketplace ponto frio" title="marketplace ponto frio">
                             <p>

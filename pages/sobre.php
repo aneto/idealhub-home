@@ -51,7 +51,7 @@
                             <div class="timeline-image">
                                 <h3>
                                     <span class="fa-stack fa-3x">
-                                        <i class="glyphicon glyphicon-group"></i>
+                                        <i class="fa fa-desktop fa-stack-3x fa-inverse"></i>
                                     </span>
                                 </h3>
                             </div>
