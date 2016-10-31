@@ -1,9 +1,9 @@
 /*
-Theme Name: WebStorm
-Theme URI: http://www.webstorm.com.br/
-Description: WebStorm
-Author: WebStorm Internet LTDA
-Author URI: http://www.webstorm.com.br/
+Theme Name: iDeal Hub Theme
+Theme URI: http://www.idealhub.com.br/
+Description: iDeal Hub Blog
+Author: iDeal Hub
+Author URI: http://www.idealhub.com.br/
 */
 @font-face {
     font-family: 'MontserratRegular';
@@ -605,7 +605,7 @@ body
 #footer .redesSociais div h5 p
 {
     background-color: #FFF;
-    color: #bdbdbd;
+    color: #000;
     display: inline-block;
     font-family: "MontserratLight";
     font-size: 15px;
