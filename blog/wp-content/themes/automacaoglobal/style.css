@@ -101,11 +101,11 @@ body
     float: left;
     margin-left: 50px;
     margin-top: 65px;
-    width: 580px;
+    width: 660px;
 }
 #header #nav li
 {
-    background-image: url("images/iconMenu.png");
+    /*background-image: url("images/iconMenu.png");*/
     background-position: right 20px center;
     background-repeat: no-repeat;
     float: left;

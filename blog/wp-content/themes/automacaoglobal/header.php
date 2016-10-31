@@ -21,15 +21,33 @@ if($_SERVER['SERVER_ADDR'] == '192.168.100.120')
 <div id="corpo">
     <div id="header">
         <div class="contHeader">
-            <h1 title="<?php bloginfo('name'); ?>" ></h1>
+            <a class="page-scroll" href="http://www.idealhub.com.br">
+                <h1 title="<?php bloginfo('name'); ?>" ></h1>
+            </a>
             <!--<h2><?php bloginfo('description'); ?></h2>-->
             <ul id="nav">
-                <?php wp_list_cats('sort_column=name'); ?>
+                <?//php wp_list_cats('sort_column=name'); ?>
+
+                    <li>
+                        <a class="page-scroll" href="http://www.idealhub.com.br#services">Recursos</a>
+                    </li>
+                    <li>
+                        <a class="page-scroll" href="http://www.idealhub.com.br#portfolio">Marketplaces</a>
+                    </li>
+                    <li>
+                        <a class="page-scroll" href="http://www.idealhub.com.br#about">Como Funciona</a>
+                    </li>
+                    <li>
+                        <a class="page-scroll" href="http://www.idealhub.com.br#contact" onClick="_gaq.push(['_trackEvent', 'Fale Conosco', 'Click', 'Fale Conosco Menu']);">Fale Conosco</a>
+                    </li>
+                    <li>
+                        <a class="page-scroll" href="http://www.idealhub.com.br/blog">Blog</a>
+                    </li>
             </ul>
-            <div class="itensTopo">
-            	<!--<div class="busca">
+            <!--<div class="itensTopo">
+            	<div class="busca">
                     <?php get_search_form(); ?>   
-                </div> -->
+                </div> 
             	<div class="linkLoja"><a href="http://www.idealhub.com.br/" targer="blank">Site</a></div>
             	<ul class="redesSociais">
             		<li class="redeFace"><a href="#"></a></li>
@@ -37,7 +55,7 @@ if($_SERVER['SERVER_ADDR'] == '192.168.100.120')
             		<li class="redeGmais"><a href="#"></a></li>
             		<li class="redeInsta"><a href="#"></a></li>
             	</ul>
-            </div>
+            </div>-->
         </div>
         <?
         if(!$param[0] || $param[0] == ''){

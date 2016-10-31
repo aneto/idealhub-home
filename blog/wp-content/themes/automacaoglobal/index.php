@@ -13,7 +13,7 @@
                                 the_post_thumbnail(); ?>
                             </a>
                         </span>
-                        <p><?php the_content(); ?></p>
+                        <p><?php the_excerpt(); ?></p>
                         <div class="continue">
                             <a href="<?php the_permalink() ?>">Continue Lendo</a>
                             <span><?php the_time('F / Y') ?></span>
