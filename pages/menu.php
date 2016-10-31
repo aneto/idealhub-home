@@ -27,6 +27,9 @@
                     <li>
                         <a class="page-scroll" href="#contact" onClick="_gaq.push(['_trackEvent', 'Fale Conosco', 'Click', 'Fale Conosco Menu']);">Fale Conosco</a>
                     </li>
+                    <li>
+                        <a class="page-scroll" href="http://www.idealhub.com.br/blog">Blog</a>
+                    </li>
                 </ul>
             </div>
             <!-- /.navbar-collapse -->
