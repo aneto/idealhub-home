@@ -80,6 +80,7 @@ body
 {
     float: left;
     width: 100%;
+	margin-top: 5%;
 }
 #header .contHeader
 {
@@ -88,13 +89,13 @@ body
 }
 #header h1
 {
-    background-image: url("images/logo.png");
-    background-repeat: no-repeat;
-    cursor: pointer;
-    float: left;
-    height: 82px;
-    margin: 38px 0px 32px 15px;
-    width: 179px;
+    #background-image: url("images/logo.png");
+    #background-repeat: no-repeat;
+    #cursor: pointer;
+    #float: left;
+    #height: 82px;
+    #margin: 38px 0px 32px 15px;
+    #width: 179px;
 }
 #header #nav
 {
@@ -308,12 +309,12 @@ body
     top: 49%;
     width: 100%;
 }
-#artigos
+
 {
     float: left;
     width: 630px;
 }
-#artigos .tituloHome
+ .tituloHome
 {
     background: #154782;
     color: #ffffff;
@@ -332,7 +333,7 @@ body
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
 }
-#artigos .artigo
+ .artigo
 {
     border-bottom: 1px solid #dbdbdb;
     float: left;
@@ -340,15 +341,15 @@ body
     padding-bottom: 20px;
     width: 100%;
 }
-#artigos .artigo h2,
-#artigos .artigo h1
+ .artigo h2,
+ .artigo h1
 {
     float: left;
     font-weight: normal;
     margin-bottom: 20px;
     width: 100%;
 }
-#artigos .artigo h2 a
+ .artigo h2 a
 {
     background-image: url("images/bgTitulo.png");
     background-position: left bottom;
@@ -367,8 +368,8 @@ body
     -o-transition:all 0.3s ease-in;  
     transition:all 0.3s ease-in;
 }
-#artigos .artigo h2 a:hover{color: #154782;}
-#artigos .artigo h1 a
+ .artigo h2 a:hover{color: #154782;}
+ .artigo h1 a
 {
     background-image: url("images/bgTitulo.png");
     background-position: left bottom;
@@ -387,15 +388,15 @@ body
     -o-transition:all 0.3s ease-in;  
     transition:all 0.3s ease-in;
 }
-#artigos .artigo h1 a:hover{color: #63A927;}
-#artigos .artigo .fotoPost
+ .artigo h1 a:hover{color: #63A927;}
+ .artigo .fotoPost
 {
     float: right;
     margin-left: 20px;
     width: 225px;
 }
-#artigos .artigo .fotoPost img{max-width: 100%;}
-#artigos .artigo p
+ .artigo .fotoPost img{max-width: 100%;}
+ .artigo p
 {
     color: #5d5d5d;
     font-family: "MontserratRegular";
@@ -406,14 +407,14 @@ body
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
 }
-#artigos .artigo p img{float: right;}
-#artigos .artigo .continue
+ .artigo p img{float: right;}
+ .artigo .continue
 {
     float: left;
     margin-top: 15px;
     width: 100%;
 }
-#artigos .artigo .continue a
+ .artigo .continue a
 {
     background-image: url("images/iconSeta.png");
     background-position: left 8px center;
@@ -435,8 +436,8 @@ body
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
 }
-#artigos .artigo .continue a:hover{background-color: #DBDBDB;}
-#artigos .artigo .continue span
+ .artigo .continue a:hover{background-color: #DBDBDB;}
+ .artigo .continue span
 {
     background-image: url("images/iconRelogio.png");
     background-position: left center;
@@ -454,13 +455,13 @@ body
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
 }
-#artigos .artigo .postado
+ .artigo .postado
 {
     float: left;
     margin-bottom: 15px;
     width: 100%;
 }
-#artigos .artigo .postado span
+ .artigo .postado span
 {
     background-image: url("images/iconRelogio.png");
     background-position: left center;
@@ -479,9 +480,9 @@ body
 }
 #sidebar
 {
-    float: right;
+    #float: right;
     margin-top: 70px;
-    width: 290px;
+    #width: 290px;
 }
 #sidebar .widget
 {
@@ -701,12 +702,12 @@ body
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
 }
-#artigos #comments
+ #comments
 {
     float: left;
     width: 100%;
 }
-#artigos #comments h3
+ #comments h3
 {
     color: #5c5c5c;
     float: left;
@@ -719,7 +720,7 @@ body
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
 }
-#artigos #comments p.aviso
+ #comments p.aviso
 {
     color: #5c5c5c;
     float: left;
@@ -732,19 +733,19 @@ body
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
 }
-#artigos #comments #respond
+ #comments #respond
 {
     float: left;
     margin-top: 15px;
     width: 100%;
 }
-#artigos #comments #respond #commentform
+ #comments #respond #commentform
 {
     float: left;
     margin-top: 20px;
     width: 100%;
 }
-#artigos #comments #respond #commentform fieldset input[type=text]
+ #comments #respond #commentform fieldset input[type=text]
 {
     border: 1px solid #cccccc;
     color: #000;
@@ -763,7 +764,7 @@ body
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
 }
-#artigos #comments #respond #commentform fieldset textarea
+ #comments #respond #commentform fieldset textarea
 {
     border: 1px solid #cccccc;
     color: #000;
@@ -782,7 +783,7 @@ body
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
 }
-#artigos #comments #respond #commentform fieldset input[type=submit]
+ #comments #respond #commentform fieldset input[type=submit]
 {
     background-color: #782321;
     border: none;
@@ -794,6 +795,7 @@ body
     height: 60px;
     text-transform: uppercase;
     width: 225px;
+	margin-left:40%;
 
     -webkit-border-radius: 3px;
     -moz-border-radius: 3px;
@@ -811,36 +813,36 @@ body
     -o-transition:all 0.3s ease-in;  
     transition:all 0.3s ease-in;
 }
-#artigos #comments #respond #commentform fieldset input[type=submit]:hover{background-color: #782321;}
-#artigos #comments #respond #commentform fieldset #captchaImgDiv
+ #comments #respond #commentform fieldset input[type=submit]:hover{background-color: #154782;}
+ #comments #respond #commentform fieldset #captchaImgDiv
 {
     float: left;
-    margin-bottom: 30px;
+    #margin-bottom: 30px;
     width: 100%;
 }
-#artigos #comments #respond #commentform fieldset #captchaImgDiv .captchaSizeDivLarge{float: left;}
-#artigos #comments #respond #commentform fieldset #captchaImgDiv .captchaSizeDivLarge #si_image_com{float: left;}
-#artigos #comments #respond #commentform fieldset #captchaImgDiv .captchaSizeDivLarge #si_refresh_com
+ #comments #respond #commentform fieldset #captchaImgDiv .captchaSizeDivLarge{#float: left;}
+ #comments #respond #commentform fieldset #captchaImgDiv .captchaSizeDivLarge #si_image_com{float: left;}
+ #comments #respond #commentform fieldset #captchaImgDiv .captchaSizeDivLarge #si_refresh_com
 {
-    float: left;
+    #float: left;
     height: 60px;
     line-height: 72px;
     margin: 0 10px;
 }
-#artigos #comments #respond #commentform fieldset #captchaImgDiv #captchaInputDiv input
+ #comments #respond #commentform fieldset #captchaImgDiv #captchaInputDiv input
 {
     border: 1px solid #cccccc;
     color: #a1a1a1;
-    float: right;
+    #float: right;
     font-family: "MontserratRegular";
     font-size: 26px;
     height: 60px;
     letter-spacing: 5px;
-    margin: 0;
+    margin-top: 10px;
     padding: 0 0 0 15px;
     text-align: center;
-    width: 410px;
-
+    width: 50%;
+	
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
     box-sizing: border-box;
@@ -848,17 +850,17 @@ body
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
 }
-#artigos #comments #respond #commentform fieldset #captchaImgDiv #captchaInputDiv label,
-#artigos #comments #respond #commentform fieldset #captchaImgDiv #captchaInputDiv span
+ #comments #respond #commentform fieldset #captchaImgDiv #captchaInputDiv label,
+ #comments #respond #commentform fieldset #captchaImgDiv #captchaInputDiv span
 {
     display: none;
 }
-#artigos #comments .commentlist
+ #comments .commentlist
 {
     float: left;
     width: 100%;
 }
-#artigos #comments .commentlist .comment
+ #comments .commentlist .comment
 {
     border-bottom: 1px solid #CCC;
     float: left;
@@ -866,18 +868,18 @@ body
     padding-bottom: 15px;
     width: 100%;
 }
-#artigos #comments .commentlist .comment-author
+ #comments .commentlist .comment-author
 {
     float: left;
     width: 100%;
 }
-#artigos #comments .commentlist .comment-author img
+ #comments .commentlist .comment-author img
 {
     float: left;
     margin-right: 20px
 }
-#artigos #comments .commentlist .comment-author .fn,
-#artigos #comments .commentlist .comment-author .says
+ #comments .commentlist .comment-author .fn,
+ #comments .commentlist .comment-author .says
 {
     color: #5c5c5c;
     float: left;
@@ -889,13 +891,13 @@ body
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
 }
-#artigos #comments .commentlist .commentmetadata
+ #comments .commentlist .commentmetadata
 {
     float: left;
     margin: 10px 0px;
     width: 100%;
 }
-#artigos #comments .commentlist .commentmetadata a
+ #comments .commentlist .commentmetadata a
 {
     background-image: url("images/iconRelogio.png");
     background-position: left center;
@@ -912,7 +914,7 @@ body
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
 }
-#artigos #comments .commentlist p
+ #comments .commentlist p
 {
     border: 1px solid #ccc;
     color: #5d5d5d;
@@ -931,12 +933,12 @@ body
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
 }
-#artigos #comments .commentlist .reply
+ #comments .commentlist .reply
 {
     float: left;
     width: 100%;
 }
-#artigos #comments .commentlist .reply a
+ #comments .commentlist .reply a
 {
     background-image: url("images/iconSeta.png");
     background-position: left 8px center;
@@ -958,4 +960,4 @@ body
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
 }
-#artigos #comments .commentlist .reply a:hover{background-color: #DBDBDB;}
+ #comments .commentlist .reply a:hover{background-color: #DBDBDB;}

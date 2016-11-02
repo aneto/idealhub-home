@@ -1,6 +1,6 @@
 <?php get_header(); ?>
-    <div id="conteudo">
-        <div class="contConteudo">
+    <div class="container" style="margin-top: 5%;">
+        <div class="contConteudo col-sm-12">
             <div id="artigos">
                 <?php if ( have_posts() ) : while ( have_posts() ) : the_post(); ?>
                     <div class="artigo">
